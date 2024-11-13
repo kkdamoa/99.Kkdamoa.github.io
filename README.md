@@ -1,4 +1,5 @@
 # 99.Kkdamoa.github.io
+ <body>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9374368296307755"
      crossorigin="anonymous"></script>
 <!-- kkdamoa 본문상단 -->
@@ -11,3 +12,4 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+ <body>
